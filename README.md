@@ -6,7 +6,17 @@ v0.0.0
 
 ## USAGE
 
-TODO
+This repository contains a set of templates, structured in a directory
+hierarchy, to be used as a starting point for developing a simple
+online game app.
+
+To see examples of how it can be used, you can visit two of my other
+repositories:
+1. Implementation of the snake game (repository 'snake').
+2. Implementation of a cyclic tag game (repository 'cyclic-tag').
+
+You will also find in each repository a URL to see the end result
+published on GitHub Pages.
 
 ## DIRECTORY TREE
 
